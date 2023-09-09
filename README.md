@@ -1,3 +1,3 @@
 # MI349
-## This is a subheader in Markdown
-MI349 For Class Repository
+
+Hello World, Part 1
