@@ -4,7 +4,7 @@ body {
     background: #fff;
     font-family: Helvetica, sans-serif;
     border-top: 15px solid #424242;
-    margin: 0 auto; /*will remove default margins*/
+    margin: 0; /*will remove default margins*/
     color: #424242;
 }
 
@@ -22,7 +22,7 @@ main {
     The shorthand version is used below.
     */
     background: no-repeat bottom / cover url('images/mac.jpg');
-    height: 200px;
+    height: 250px;
     border-radius: 20px; /*For the rounded corners*/
 
 }
@@ -42,7 +42,9 @@ main {
 
 .details section p {
     margin: 20px;
+    font-size: 1.25;
 }
+
 
 .details section h2 {
     margin: 20px;
