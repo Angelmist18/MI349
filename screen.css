@@ -4,7 +4,16 @@ body {
     background: #fff;
     font-family: Helvetica, sans-serif;
     border-top: 15px solid #424242;
-    margin: 0; /*will remove default margins*/
+    margin: 0 auto; /*will remove default margins*/
+}
+
+main {
+    margin: 0 auto; /*margin generally has 4 value areas */
+    width: 800px;
+}
+
+.details {
+    display: flex;
 }
 
 img {
